@@ -1,5 +1,5 @@
-blank_issues_enabled: false
-contact_links:
+blank_issues_enabled: True
+contact_links: youtube
   - name: To create a issue join the Amethyst Network discord
     url: https://discord.gg/J3VPy5Vy8x
     about: I do not want to have to deal with random useless issues on here.
